@@ -1,4 +1,3 @@
-```markdown
 # 📊 Municipal Bond Analytics Dashboard
 
 Welcome to the **Municipal Bond Analytics Dashboard** — a data science project focused on analyzing municipal bond data using Python, Streamlit, and Plotly. This project is inspired by real-world finance use cases.
@@ -147,5 +146,4 @@ pip freeze > requirements.txt
 ## 📎 License
 
 This is a synthetic data project meant for educational and demonstrational purposes only.
-```
 
